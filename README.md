@@ -1,0 +1,2 @@
+# ShogiAI
+ShogiAI is awsome
